@@ -1,4 +1,4 @@
-package BasicJava;
+package JavaProject.BasicJava;
 
 public class maxmark_array {
     public static void main(String args[])

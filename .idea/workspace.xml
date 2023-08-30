@@ -5,96 +5,138 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83d743ca-ad25-4fa3-8a1c-be31e2ec9d66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Java_Notes/Leetcode Interview Coding.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Notes/Oops Concept.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Notes/leetcode_amazon.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/libraries/scala_sdk_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/scala_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/OddEvenNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/ReverseNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/String_Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/SwapNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/Traits.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/array_adding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/array_revision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/maxmark_array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/scala_datatype.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/string_reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/string_upper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/stringbuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/stringcontains.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/user_input_max_mark.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BasicJava/vovels_string.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BusBookingApp/Bus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BusBookingApp/busDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/Java_Realtime.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/calculator/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/hierarical_inheritance/appa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/hierarical_inheritance/cithapa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/hierarical_inheritance/grand_parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/hierarical_inheritance/main_method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/inhertance/Inheritance_java.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/inhertance/father_card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/inhertance/grand_father.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/inhertance/son.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/method_overloading_riding/methof_overload1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/method_overloading_riding/overloading_main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/libraries/scala_sdk_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/scala_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/OddEvenNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/SwapNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/Traits$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/Traits$Talker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/Traits$person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/Traits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/Traits.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BasicJava/maxmark_array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BusBookingApp/Bus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/BusBookingApp/busDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/Java_Realtime.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/calculator/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/Scala_practise/ReverseNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/Scala_practise/scala_datatype$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/Scala_practise/scala_datatype.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/Scala_practise/scala_datatype.tasty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/String_Class$familrulesinterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/String_Class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/array_adding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/array_revision.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/hierarical_inheritance/appa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/hierarical_inheritance/cithapa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/hierarical_inheritance/grand_parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/hierarical_inheritance/main_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/inhertance/Inheritance_java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/inhertance/father_card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/inhertance/grand_father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/inhertance/son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/method_overloading_riding/methof_overload1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/method_overloading_riding/overloading_main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/string_reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/string_upper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/stringbuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/stringcontains$ABC_Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/stringcontains.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/user_input_max_mark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/vovels_string$Employee_rules_Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/out/production/Java_Realtime/java_project_begineer/vovels_string.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProject/JavaInterviewQuestions/NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProject/JavaInterviewQuestions/NestedForLoopPatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProject/JavaInterviewQuestions/NumberCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProject/JavaInterviewQuestions/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/OddEvenNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/BasicJava/OddEvenNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/BasicJava/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/String_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/BasicJava/String_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/array.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/BasicJava/array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/array_adding.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/BasicJava/array_adding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/array_revision.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/BasicJava/array_revision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/maxmark_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/BasicJava/maxmark_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/stringbuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/BasicJava/stringbuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/BasicJava/stringcontains.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaInterviewQuestions/parlindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject/JavaInterviewQuestions/parlindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/.idea/JavaRealtime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/.idea/libraries/scala_sdk_2_12_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/BasicJava/OddEvenNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/BasicJava/SwapNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/BasicJava/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/BasicJava/maxmark_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/BusBookingApp/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/BusBookingApp/busDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaNotes/1676443298003.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaNotes/1677051427956.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaNotes/CORE JAVA INTERVIEW QUESTIONS .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaNotes/Java1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaNotes/Leetcode Interview Coding.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaNotes/Oops Concept.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaNotes/leetcode_amazon.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/libraries/scala_sdk_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/JavaInterviewQuestions/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/JavaInterviewQuestions/numberSwap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/JavaInterviewQuestions/parlindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/JavaProject/Java_Realtime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/calculator/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/calculator/calculatorr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/calculator/calculatortwo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/calculator/calculatortwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/Scala_practise/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/String_Class$familrulesinterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/String_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/array_adding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/array_revision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/hierarical_inheritance/appa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/hierarical_inheritance/cithapa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/hierarical_inheritance/grand_parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/hierarical_inheritance/main_method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/inhertance/Inheritance_java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/inhertance/father_card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/inhertance/grand_father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/inhertance/son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/method_overloading_riding/methof_overload1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/method_overloading_riding/overloading_main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/string_reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/string_upper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/stringbuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/stringcontains$ABC_Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/stringcontains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/user_input_max_mark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/vovels_string$Employee_rules_Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/JavaRealtime/java_project_begineer/vovels_string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/libraries/scala_sdk_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/OddEvenNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/SwapNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/Traits$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/Traits$Talker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/Traits$person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/Traits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/Traits.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BasicJava/maxmark_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BusBookingApp/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/BusBookingApp/busDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/JavaInterviewQuestions/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/JavaInterviewQuestions/numberSwap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/Java_Realtime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/calculator/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/calculator/calculator.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/calculator/calculatorr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/calculator/calculatortwo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/calculator/calculatortwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/calculator/calculatortwo.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/Scala_practise/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/Scala_practise/scala_datatype$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/Scala_practise/scala_datatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/Scala_practise/scala_datatype.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/String_Class$familrulesinterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/String_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/array_adding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/array_revision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/hierarical_inheritance/appa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/hierarical_inheritance/cithapa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/hierarical_inheritance/grand_parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/hierarical_inheritance/main_method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/inhertance/Inheritance_java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/inhertance/father_card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/inhertance/grand_father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/inhertance/son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/method_overloading_riding/methof_overload1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/method_overloading_riding/overloading_main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/string_reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/string_upper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/stringbuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/stringcontains$ABC_Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/stringcontains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/user_input_max_mark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/vovels_string$Employee_rules_Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/out/production/Java_Realtime/java_project_begineer/vovels_string.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +159,13 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2Jz85oWmV7ZmVG1bagawwkA1vEv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -127,16 +175,42 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/GanesanD/Desktop/Real time/scalaRealtime",
-    "project.structure.last.edited": "Global Libraries",
+    "last_opened_file_path": "C:/Users/GanesanD/Desktop/Real time/JavaRealtime",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2137931",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.parlindrome">
+  <component name="RunManager" selected="Application.NestedForLoopPatter">
     <configuration name="JavaProject.JavaInterviewQuestions.numberSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaProject.JavaInterviewQuestions.numberSwap" />
+      <module name="JavaRealtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProject.JavaInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedForLoopPatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProject.JavaInterviewQuestions.NestedForLoopPatter" />
+      <module name="JavaRealtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProject.JavaInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProject.JavaInterviewQuestions.NumberCount" />
       <module name="JavaRealtime" />
       <extension name="coverage">
         <pattern>
@@ -161,19 +235,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numberSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterviewQuestions.numberSwap" />
-      <module name="JavaRealtime" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaInterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="parlindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaProject.JavaInterviewQuestions.parlindrome" />
       <module name="JavaRealtime" />
@@ -189,10 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.parlindrome" />
+        <item itemvalue="Application.NestedForLoopPatter" />
+        <item itemvalue="Application.NumberCount" />
         <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.parlindrome" />
         <item itemvalue="Application.JavaProject.JavaInterviewQuestions.numberSwap" />
-        <item itemvalue="Application.numberSwap" />
       </list>
     </recent_temporary>
   </component>
@@ -206,5 +268,10 @@
       <updated>1673069370578</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="executable:terraform" />
   </component>
 </project>

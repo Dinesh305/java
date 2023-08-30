@@ -1,4 +1,4 @@
-package java_project_begineer;
+package JavaProject.BasicJava;
 import java.util.Scanner;
 public class array_revision {
     public static void main(String[] args)

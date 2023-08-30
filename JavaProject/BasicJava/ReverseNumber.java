@@ -1,4 +1,4 @@
-package java_project_begineer.Scala_practise;
+package JavaProject.BasicJava;
 
 import java.util.Scanner;
 

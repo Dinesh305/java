@@ -1,4 +1,4 @@
-package java_project_begineer;
+package JavaProject.BasicJava;
 
 public class String_Class {
 
