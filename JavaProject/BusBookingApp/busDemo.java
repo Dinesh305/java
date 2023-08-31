@@ -1,4 +1,4 @@
-package BusBookingApp;
+package JavaProject.BusBookingApp;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class busDemo {
         //boolean b = true;
         System.out.println("Please enter number");
 
-        while (UserInput ==1)
+        while (true)
         {
             Scanner sc = new Scanner(System.in);
             int UserEntered =sc.nextInt();

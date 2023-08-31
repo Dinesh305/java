@@ -1,8 +1,8 @@
-package java_project_begineer.hierarical_inheritance;
+package JavaProject.hierarical_inheritance;
 
 public class main_method {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         System.out.println("family_details");
 
         appa obj = new appa();

@@ -1,6 +1,6 @@
-package java_project_begineer.hierarical_inheritance;
+package JavaProject.hierarical_inheritance;
 
-public class appa extends grand_parent{
+public class appa extends java_project_begineer.hierarical_inheritance.grand_parent {
 
     String appa_name = "Ganesan";
     String amma_name = "Mallika";

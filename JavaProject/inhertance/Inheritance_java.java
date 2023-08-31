@@ -1,4 +1,4 @@
-package java_project_begineer.inhertance;
+package JavaProject.inhertance;
 
 public class Inheritance_java extends father_card
 {

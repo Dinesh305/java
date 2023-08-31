@@ -4,7 +4,8 @@ public class NestedForLoopPatter {
 //        pattern1(5);
 //        pattern2(5);
 //        pattern3(5);
-        pattern4(5);
+//        pattern4(5);
+        pattern5(5);
     }
 
     static void pattern1(int a) {
@@ -38,9 +39,18 @@ public class NestedForLoopPatter {
         for (int i = 0; i <= d; i++) {
             for (int j = 0; j <= i; j++) {
 
-                System.out.print(1);
+                System.out.print(j+1);
             }
-            System.out.println("");
+            System.out.println();
+        }
+    }
+    static void pattern5(int e) {
+        for (int i = 0; i <= 5; i++) {
+            for (int j = 0; j <= i; j++) {
+
+                System.out.print(j+1);
+            }
+            System.out.println();
         }
     }
 }

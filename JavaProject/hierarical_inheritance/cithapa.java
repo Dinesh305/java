@@ -1,6 +1,6 @@
-package java_project_begineer.hierarical_inheritance;
+package JavaProject.hierarical_inheritance;
 
-public class cithapa extends grand_parent {
+public class cithapa extends java_project_begineer.hierarical_inheritance.grand_parent {
 
     String cithapa_name = "murugesan";
     String cithi_name = "padma";
